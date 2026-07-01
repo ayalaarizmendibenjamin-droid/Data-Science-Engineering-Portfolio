@@ -1,16 +1,16 @@
 # Data-Science-Engineering-Portfolio
-Data analytics and predictive modeling portfolio. Includes the complete data lifecycle (ETL, EDA, and Visualization) using Python, Power BI, and MATLAB, featuring Artificial Neural Networks (ANN) for engineering optimization.
+Data analytics and predictive modeling portfolio. Includes the complete data lifecycle using Python, Power BI, and MATLAB, featuring Artificial Neural Networks (ANN) for engineering optimization.
 
 # Portfolio: Data Analysis & Artificial Intelligence in Engineering
 **Author:** Ing. Benjamín Ayala Arizmendi  
-**Keywords:** Python, Power BI, SQL, MATLAB, Artificial Neural Networks (ANN), Data Lifecycle.
+**Keywords:** Python, Power BI, MATLAB, Artificial Neural Networks (ANN), Data Lifecycle.
 
 ## Featured Project: Thermal Performance Prediction using Machine Learning & BI
 *Project presented at the XLVI National Meeting of AMIDIQ (2025)*
 
 ### 1. Data Ingestion & ETL (Extract, Transform, Load)
 * **Objective:** Clean and process experimental variables from a helical condenser system.
-* **Stack:** Python (Pandas, NumPy) / SQL.
+* **Stack:** Python (Pandas, NumPy) / MATLAB
 * **Action:** Handled missing values, normalized experimental physical data scales, and applied feature engineering to extract thermodynamic correlations from raw data text files.
 
 ### 2. Exploratory Data Analysis (EDA) & Statistical Modeling
